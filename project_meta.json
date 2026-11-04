@@ -1,10 +1,17 @@
 {
-  "seq": 90,
   "title": "Mobile App for Managing On-site Measurements and Details",
-  "slug": "mobile-app-for-managing-on-site-measurements-and-detail",
+  "old_slug": "mobile-app-for-managing-on-site-measurements-and-detail",
+  "slug": "onsite-measurements-mobile-app",
   "folder": "Mobile_App_For_Managing_On_Site_Measurements",
-  "kind": "app",
-  "body_words": 243,
+  "kind": "product",
+  "body_words": 307,
+  "source": "MICT Industry",
   "project_id": "Project 4",
-  "source": "MICT Industry"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
