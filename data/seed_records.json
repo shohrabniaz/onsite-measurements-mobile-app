@@ -1,30 +1,38 @@
 [
   {
-    "title": "Mobile App for Managing On-site Measurements and Details - intake request",
+    "title": "Mobile App for Managing On-site Measurements and Details \u2014 new onsite measurements mobile app request",
     "status": "open",
     "meta": {
+      "source": "web",
       "priority": "high"
     }
   },
   {
-    "title": "Schedule follow-up",
-    "status": "open",
+    "title": "Review onsite measurements mobile app backlog",
+    "status": "in_progress",
     "meta": {
       "priority": "medium"
     }
   },
   {
-    "title": "Close completed onboarding",
+    "title": "Customer follow-up for onsite measurements mobile app",
+    "status": "blocked",
+    "meta": {
+      "priority": "high"
+    }
+  },
+  {
+    "title": "Completed onsite measurements mobile app onboarding",
     "status": "done",
     "meta": {
       "priority": "low"
     }
   },
   {
-    "title": "Waiting on customer evidence",
-    "status": "blocked",
+    "title": "QA check \u2014 onsite-measurements-mobile-app",
+    "status": "open",
     "meta": {
-      "priority": "high"
+      "priority": "medium"
     }
   }
 ]
